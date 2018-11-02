@@ -7,13 +7,15 @@
 .logo {
     float: left;
     z-index: 10;
-    position: relative;}
-  @media screen and(mac-width:700px){
+    position: relative;
+}
+@media screen and(mac-width:700px)
+{
     .logo{
       top: 24px;
       left:20px:
   }
-    }
+}
     .h1{
       color:#00FFFF;
       text-align: center;
